@@ -8,5 +8,8 @@ now create new branch and add README file
 ![image](https://github.com/mishandeepkumar/mtm6302-capstone-mishandeep/assets/139002729/f0c2636b-4258-4213-b238-3e3dcb77fe8c)
 
 part 2
+
+![image](https://github.com/mishandeepkumar/mtm6302-capstone-mishandeep/assets/139002729/69ec9ed2-56c5-498d-9e1b-caf61fe6ef86)
+
 ![image](https://github.com/mishandeepkumar/mtm6302-capstone-mishandeep/assets/139002729/292bcb57-3a49-4dfc-9e43-47b86df42aed)
 
